@@ -1,69 +1,61 @@
 *{
     margin: 0;
 }
+
 header div{
     background-color: rgb(55, 55, 252);
     padding: 1.5em; 
     display: flex;
-
 }
+
 h1{
   margin-left: 220px;
   margin-top: 40px;
 }
 
-ul{
+.navigation{
     background-color: cornflowerblue;
     height: 2.5em;
     text-align: center;
     list-style: none;
     padding: 0.5em;
     border: 2px solid black;
-    
 }
-li ,button{
+
+
+button{
     background-color: rgb(125, 127, 223);
     color: bisque;
 }
 
-
-main{
-    background-image: url(/media/media/img/bg.jpg);
-    height: 100%;
-}
-footer{
-    background-image: url(/media/media/img/bg.jpg);
-    height: 150px;
-}
-.container1{
-    background-color: rgb(213, 255, 150);
-    width: 700px;
-    margin-left:350px ; 
-    margin-top: -450px;
-}
-
-.container2{
-    background-color: rgb(213, 255, 150);
-    width: 700px;
-    margin-left:350px ; 
-    margin-top: -10px;
-    
-}
-h3{
-    color: rgb(49, 235, 189);
-    margin-top: 100px;
-    padding: 0.5em;
-     }
-
-.c3{
+h2 {
     background-color:gainsboro;
     opacity: 0.3;
     width:685px;
     margin-left: 350px;
     height:460px;
-    color: rgb(50, 126, 226);
+    color: black;
     padding: 0.5em;
 }
+
+main{
+    background-image: url(/media/media/img/bg.jpg);
+    height: 50%;
+    
+}
+
+.liste {
+    background-color: rgb(213, 255, 150);
+    width: 700px;
+    margin-left: 350px; 
+    /* margin-top: 300px; */
+}
+
+footer{
+    background-image: url(/media/media/img/bg.jpg);
+    height: 300px;
+}
+
 .fc{
     background-color: cornflowerblue;
     height: 20px;
