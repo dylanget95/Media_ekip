@@ -1,0 +1,25 @@
+header div{
+    background-color: rgb(55, 55, 252);
+    padding: 1.5em; 
+    display: flex;
+}
+
+h1{
+  margin-left: 220px;
+  margin-top: 40px;
+}
+
+.navigation{
+    background-color: cornflowerblue;
+    height: 2.5em;
+    text-align: center;
+    list-style: none;
+    padding: 0.5em;
+    border: 2px solid black;
+}
+
+
+button{
+    background-color: rgb(125, 127, 223);
+    color: bisque;
+}
