@@ -1,0 +1,24 @@
+ .zone1{
+    background-color:#f7f39a;
+    color: black;
+    height: 70px ;
+    text-align: center;
+}
+
+.zone2 { 
+    width: 15%; 
+    background-color: #a3de83;
+    color: #000;
+    height: 70vh;
+}
+
+.zone3 {
+    width: 80%;
+    background-color: #38817a;
+    height: 70vh;
+}
+
+.zone4 {
+    display: flex;
+}
+

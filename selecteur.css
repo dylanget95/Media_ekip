@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+
+h2 {
+    background-color:gainsboro;
+    opacity: 0.3;
+    width:720px;
+    margin-left: 350px;
+    height:460px;
+    color: black;
+    padding: 0.5em;
+}
+
+main{
+    background-image: url(/media/media/img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 60vh;
+    padding: 1.5rem 0 3rem;
+}
+
+
+.selecteur h2 {
+    width: 980px;
+    margin: 0 auto .4rem;
+    padding: 4rem .6rem;
+    color: #111;
+    border-radius: 4px;
+}
+
+
+.card {
+    width: 980px;
+    margin: 0 auto;
+    margin-top: -275px;
+    margin-right: 1000px;
+}
+
+.liste {
+    background-color: rgb(213, 255, 150);
+    width: 700px;
+    margin-left: 350px; 
+    /* margin-top: 300px; */
+    list-style: none;
+
+}
+
+
+footer{
+    background-image: url(/media/media/img/bg.jpg);
+    height: 300px;
+}
+
+.fc{
+    background-color: cornflowerblue;
+    height: 20px;
+}
+
+li:nth-of-type(1) {color: pink;}
+
+li:nth-of-type(2){color: red;}
+li:nth-of-type(3){color: red;}
+li:nth-of-type(4){color: red;}
+li:nth-of-type(7){color: red;}
+li:nth-of-type(8){color: red;}
+li:nth-of-type(9){color: red;}
+
+li:nth-of-type(10) {color: pink;}
+
+li:nth-of-type(11){color: red;}
+li:nth-of-type(12){color: brown;}
+li span{color: blue;}
+li:nth-of-type(13){color: green;}
+#d{color: green;}

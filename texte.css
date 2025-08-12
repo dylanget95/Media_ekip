@@ -1,6 +1,8 @@
 *{
     margin: 0;
 }
+
+
 header div{
     background-color: rgb(55, 55, 252);
     padding: 1.5em; 
@@ -10,8 +12,8 @@ header div{
 h1{
   margin-left: 220px;
   margin-top: 40px;
-   
 }
+
 ul{
     background-color: cornflowerblue;
     height: 2.5em;
@@ -25,6 +27,8 @@ li ,button{
     background-color: rgb(125, 127, 223);
     color: bisque;
 }
+
+
 main{
     background-image: url(/media/media/img/bg.jpg);
     height: 100%;
@@ -66,3 +70,4 @@ h3{
     background-color: cornflowerblue;
     height: 20px;
 }
+
