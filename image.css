@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+}
+header div{
+    background-color: rgb(55, 55, 252);
+    padding: 1.5em; 
+    display: flex;
+
+}
+h1{
+  margin-left: 220px;
+  margin-top: 40px;
+   
+}
+ul{
+    background-color: cornflowerblue;
+    height: 2.5em;
+    text-align: center;
+    list-style: none;
+    padding: 0.5em;
+    border: 2px solid black;
+    
+}
+li ,button{
+    background-color: rgb(125, 127, 223);
+    color: bisque;
+}
+main{
+    background-image:url(/media/media/img/bg.jpg);
+    height:110em;
+    width: 100%;
+}
+.SCP{
+    background-image:url(/media/media/img/fond.jpg);
+    height: 25em;
+    width: 45em;
+    background-size: 740px;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+h2{
+    margin-left: 400px;
+}
+h3{
+    padding: 2em;
+    color: rgb(71, 149, 250);
+}
+.pa{
+    background-color: aliceblue;
+    opacity: 0.5;
+    width: 500px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 40px;
+    border-radius: 2%;
+}
+.TR1{
+    background-color: rgb(112, 243, 112);
+    margin-top: 50px;
+    width: 45em;
+    margin-left: 400px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+    -webkit-animation: rotate-tr 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+	        animation: rotate-tr 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+
+.TR{
+    background-color: rgb(112, 243, 112);
+    margin-top: 50px;
+    width: 45em;
+    margin-left: 400px;
+}
+.vb{
+    margin-left: 230px;
+    margin-top: 50px;
+}
+h4{
+    padding: 0.5em;
+}

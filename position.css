@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+}
+header div{
+    background-color: rgb(55, 55, 252);
+    padding: 1.5em; 
+    display: flex;
+
+}
+h1{
+  margin-left: 220px;
+  margin-top: 40px;
+   
+}
+ul{
+    background-color: cornflowerblue;
+    height: 2.5em;
+    text-align: center;
+    list-style: none;
+    padding: 0.5em;
+    border: 2px solid black;
+    
+}
+li ,button{
+    background-color: rgb(125, 127, 223);
+    color: bisque;
+    }
+.f1{
+        width:600px;
+        height: 200px;
+        background-color: rgb(156, 140, 115);
+        margin: 5em auto;
+    }
+    h2{
+        text-align: center;
+
+    }
+   h3{
+    margin-top: 18em;
+    margin-left: 26em;
+   }
+    .f2{
+        width: 600px;
+        height: 600px;
+        background-color: cornflowerblue;
+        margin: 5em auto;
+        margin-top: -4px;
+    }
+    .f3{
+        width: 75px;
+        height: 75px;
+        background-color: dimgrey;
+        margin-top: -680px;
+        margin-left: 1087px;
+    }
+    .f4{
+        margin-top: 600px;
+    }
+    .f5{
+        margin: 5em;
+    }
+    .f6{
+        width: 270px;
+        height: 50px;
+        background-color: burlywood;
+        margin-top: -80px;
+        margin-left: 50px;
+        color: rgb(252, 243, 126);
+        text-align: center;
+    }
+    .f7{
+         width: 430px;
+        height: 50px;
+        background-color: rgb(135, 141, 222);
+        margin-top: 5px;
+        margin-left: 50px;
+        color: rgb(126, 252, 204);
+        text-align: center;
+    }
+    .f8{
+        width: 800px;
+        height: 50px;
+        background-color: rgb(255, 157, 178);
+        margin-top: 5px;
+        margin-left: 50px;
+        color: rgb(126, 252, 204);
+        text-align: center;
+    }
+    .f9{
+        margin-left: 50px;
+        margin-top: 100px;
+    }
+    .f10{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f11{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f12{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f13{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f14{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f15{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f16{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .fa{
+        display: flex;
+        gap: 10px;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .fa2{
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+        margin-left: 50px
+    }
+    .f17{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f18{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .f19{
+        width: 150px;
+        height: 100px;
+        background-color: cornsilk;
+        border: 3px solid green;
+        text-align: center;
+    }
+    .fa3{
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+        margin-left: 50px
+    }
+    .fa4{
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+        margin-left: 50px
+    }
+    .fa20{
+        margin-left: 50px;
+        margin-top: 100px;
+    }
+    .fa21{
+        width: 600px;
+        height: 60px;
+        background-color: rgb(80, 255, 109);
+        margin-left:50px;
+    }
+    .fa22{
+        width: 150px;
+        height: 300px;
+        background-color: rgb(70, 240, 183);
+        margin-left: 50px;
+    }
+    .fa23{
+        width: 150px;
+        height: 300px;
+        background-color: hotpink;
+        margin-left: 500px;
+        margin-top: -300px;
+    }
+
+   .fa24{
+        width: 150px;
+        height: 300px;
+        background-color: #14d5dc;
+        margin-left: 200px;
+        margin-top: -300px;
+    }
+    .fa25{
+        width: 150px;
+        height: 300px;
+        background-color: #ac7b3a;
+        margin-left: 350px;
+        margin-top: -300px;
+    }
+    .fa26{
+        width: 600px;
+        height: 60px;
+        background-color: rgb(80, 255, 109);
+        margin-left:50px;
+        
+    }
+    .fa27{
+         width: 150px;
+        height: 100px;
+        background-color: rgb(130, 153, 202);
+        border: 3px solid rgb(219, 228, 219);
+        text-align: center;
+    }
+    .fa28{
+         width: 150px;
+        height: 100px;
+        background-color: rgb(130, 153, 202);
+        border: 3px solid rgb(219, 228, 219);
+        text-align: center;
+    }
+    .fa29{
+         width: 150px;
+        height: 100px;
+        background-color: rgb(130, 153, 202);
+        border: 3px solid rgb(219, 228, 219);
+        text-align: center;
+    }
+    .fa30{
+         width: 150px;
+        height: 100px;
+        background-color: rgb(130, 153, 202);
+        border: 3px solid rgb(219, 228, 219);
+        text-align: center;
+    }
+    .fa31{
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .fa6{
+        display: flex;
+        gap: 70px;
+        margin-left: 50px;
+    }
+    footer{
+        width: 100%;
+        height: 40px;
+        background-color: dodgerblue;
+    }
+    
